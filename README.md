@@ -20,3 +20,5 @@ Learnings from the project:-
 **TIP FOR ANYONE CURIOUS ABOUT THE CODE**: Just open the link and press **SEE INSIDE**.
 
 **THANK YOU FOR GIVING YOUR TIME IN CHECKING OUT THE GAME**
+
+**CREATED BY: KESAB PATRA**
