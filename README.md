@@ -16,5 +16,6 @@ Learnings from the project:-
 *  **Collision Detection:** Setting up real-time conditional checks to differentiate between standard point-scoring targets (the blue ghost) and obstacle hazards (Gobo).
 *   **Variable Manipulation:** Managing interactive score structures dynamically using standard addition and deduction logic.
 *   **Concurrency & Timeouts:** Running an independent clock cycle loop in parallel with user input threads to end active gameplay at exactly 30 seconds.
+**TIP FOR ANYONE CURIOUS ABOUT THE CODE**: Just open the link and press **SEE INSIDE**.
 
 **THANK YOU FOR GIVING YOUR TIME IN CHECKING OUT THE GAME**
